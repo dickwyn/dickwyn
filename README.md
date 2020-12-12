@@ -1,6 +1,6 @@
 # Hello World! My name is Dick Wyn
 
-I'm a doer of things.
+building things at scale.
 
 🐦 [twitter.com/dickwyn](https://twitter.com/dickwyn)
 
