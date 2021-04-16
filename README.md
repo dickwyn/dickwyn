@@ -1,6 +1,6 @@
-# Hello World! My name is Dick Wyn
+## Hi, I'm Dick Wyn 👋
 
-building things at scale.
+building things at scale
 
 gear i use to do things [dickwyn.xyz/uses](https://dickwyn.xyz/uses)
 
