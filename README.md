@@ -2,7 +2,7 @@
 
 building things at scale
 
-see all the gear i use to do things [dickwyn.xyz/uses](https://dickwyn.xyz/uses)
+see all the gear i use to do things [dickwyn.com/uses](https://dickwyn.com/uses)
 
 ## learn more about me (through videos)
 - [how i started programming](https://youtu.be/k67K_wI_q8U)
@@ -15,4 +15,3 @@ see all the gear i use to do things [dickwyn.xyz/uses](https://dickwyn.xyz/uses)
 - [youtube](https://youtube.com/dickwyn)
 - [instagram](https://instagram.com/dickwyn)
 - [linkedin](https://linkedin.com/in/dickwyn)
-- [polywork](https://www.polywork.com/dickwyn)
