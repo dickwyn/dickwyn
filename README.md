@@ -1,4 +1,4 @@
-## Hi, I'm Dick Wyn 👋
+## hi, I'm dickwyn 👋
 
 building things at scale
 
